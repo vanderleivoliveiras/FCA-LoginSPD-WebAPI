@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FCA-LoginSPD-WebAPI/1.0.0": {
+        "runtime": {
+          "FCA-LoginSPD-WebAPI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FCA-LoginSPD-WebAPI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\v.vinicius\Repos\FCA-LoginSPD-WebAPI\bin\Debug\netcoreapp3.1\FCA-LoginSPD-WebAPI.exe
+C:\Users\v.vinicius\Repos\FCA-LoginSPD-WebAPI\bin\Debug\netcoreapp3.1\FCA-LoginSPD-WebAPI.deps.json
+C:\Users\v.vinicius\Repos\FCA-LoginSPD-WebAPI\bin\Debug\netcoreapp3.1\FCA-LoginSPD-WebAPI.runtimeconfig.json
+C:\Users\v.vinicius\Repos\FCA-LoginSPD-WebAPI\bin\Debug\netcoreapp3.1\FCA-LoginSPD-WebAPI.runtimeconfig.dev.json
+C:\Users\v.vinicius\Repos\FCA-LoginSPD-WebAPI\bin\Debug\netcoreapp3.1\FCA-LoginSPD-WebAPI.dll
+C:\Users\v.vinicius\Repos\FCA-LoginSPD-WebAPI\bin\Debug\netcoreapp3.1\FCA-LoginSPD-WebAPI.pdb
+C:\Users\v.vinicius\Repos\FCA-LoginSPD-WebAPI\obj\Debug\netcoreapp3.1\FCA-LoginSPD-WebAPI.csprojAssemblyReference.cache
+C:\Users\v.vinicius\Repos\FCA-LoginSPD-WebAPI\obj\Debug\netcoreapp3.1\FCA-LoginSPD-WebAPI.AssemblyInfoInputs.cache
+C:\Users\v.vinicius\Repos\FCA-LoginSPD-WebAPI\obj\Debug\netcoreapp3.1\FCA-LoginSPD-WebAPI.AssemblyInfo.cs
+C:\Users\v.vinicius\Repos\FCA-LoginSPD-WebAPI\obj\Debug\netcoreapp3.1\FCA-LoginSPD-WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\v.vinicius\Repos\FCA-LoginSPD-WebAPI\obj\Debug\netcoreapp3.1\FCA-LoginSPD-WebAPI.dll
+C:\Users\v.vinicius\Repos\FCA-LoginSPD-WebAPI\obj\Debug\netcoreapp3.1\FCA-LoginSPD-WebAPI.pdb
+C:\Users\v.vinicius\Repos\FCA-LoginSPD-WebAPI\obj\Debug\netcoreapp3.1\FCA-LoginSPD-WebAPI.genruntimeconfig.cache
